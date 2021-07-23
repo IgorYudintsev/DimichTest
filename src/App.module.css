@@ -1,0 +1,18 @@
+.tsarDiv {
+    position: relative;
+    top: 20px;
+    background-color: dodgerblue;
+    height: 350px;
+    width: 350px;
+    margin: auto;
+
+}
+
+.count{
+    font-size: 150px;
+    color: yellow;
+}
+
+.linearProgress{
+    margin-top: 60px;
+}
